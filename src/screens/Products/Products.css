@@ -1,0 +1,18 @@
+.products__product-container {
+  width: 100vw;
+  padding-bottom: 80px;
+}
+
+.products__main-title {
+  padding: 40px;
+  font-weight: 900;
+}
+
+.products__products-container {
+  display: flex;
+  gap: 40px;
+  flex-wrap: wrap;
+  padding-top: 40px;
+  justify-content: center;
+  padding-bottom: 80px;
+}
